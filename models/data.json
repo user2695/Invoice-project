@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "3",
+    "description": "description of product 1",
+    "tax-rate": 6,
+    "price": 27
+  },
+  {
+    "quantity": "2",
+    "description": "description of product 2",
+    "tax-rate": 7,
+    "price": 20
+  }
+]
